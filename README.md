@@ -7,6 +7,7 @@
 
 ### convert_pdf_to_text
 PDFファイルをテキスト化するためのサンプルやユーティリティを収録。OCR（Tesseract、Google Cloud Vision）、画像変換、TensorFlowなど外部ツール連携のサンプルも含まれています。
+_credentials.jsonの認証用ファイルが必要
 作成日：2021年2月以前
 
 ### myframe
